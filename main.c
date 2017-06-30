@@ -1,6 +1,6 @@
 #include <stdio.h>/*生产者消费者问题，设定初始时候buffer里面有5个产品，buffer容量为10*/
 
-
+###
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
